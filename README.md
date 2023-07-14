@@ -1,6 +1,6 @@
 # challenges
 challenges-test
-* jalankan file testing.sql terlebih dahulu
+* run testing.sql first
 * task 1, a program for financial statement where the program can do:
     Deposit
     Withdraw
